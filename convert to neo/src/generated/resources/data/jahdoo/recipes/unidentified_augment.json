@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "jahdoo:augment_fragment"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SNS",
+    " S "
+  ],
+  "result": {
+    "item": "jahdoo:unidentified_augment"
+  },
+  "show_notification": true
+}

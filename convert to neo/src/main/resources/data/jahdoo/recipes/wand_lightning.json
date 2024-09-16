@@ -1,0 +1,21 @@
+{
+  "type": "jahdoo:creator_block",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:spruce_log"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "jahdoo:augment_core"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "jahdoo:wand_lightning"
+  }
+}

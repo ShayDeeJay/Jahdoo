@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "jahdoo:item/edible_crystal_carrot",
+      "predicate": {
+        "minecraft:custom_model_data": 1.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_golden_apple",
+      "predicate": {
+        "minecraft:custom_model_data": 2.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_golden_carrot",
+      "predicate": {
+        "minecraft:custom_model_data": 3.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_glistening_melon",
+      "predicate": {
+        "minecraft:custom_model_data": 4.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cooked_porkchop",
+      "predicate": {
+        "minecraft:custom_model_data": 5.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cooked_beef",
+      "predicate": {
+        "minecraft:custom_model_data": 6.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cooked_rabbit",
+      "predicate": {
+        "minecraft:custom_model_data": 7.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_apple",
+      "predicate": {
+        "minecraft:custom_model_data": 8.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cooked_salmon",
+      "predicate": {
+        "minecraft:custom_model_data": 9.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_bread",
+      "predicate": {
+        "minecraft:custom_model_data": 10.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_pumpkin_pie",
+      "predicate": {
+        "minecraft:custom_model_data": 11.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_glow_berries",
+      "predicate": {
+        "minecraft:custom_model_data": 12.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_dried_kelp",
+      "predicate": {
+        "minecraft:custom_model_data": 13.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_honey_bottle",
+      "predicate": {
+        "minecraft:custom_model_data": 14.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cookie",
+      "predicate": {
+        "minecraft:custom_model_data": 15.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_cooked_cod",
+      "predicate": {
+        "minecraft:custom_model_data": 16.0
+      }
+    },
+    {
+      "model": "jahdoo:item/edible_crystal_puffer_fish",
+      "predicate": {
+        "minecraft:custom_model_data": 17.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "jahdoo:item/crystals/edible_crystal"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jahdoo:item/crystals/edible_crystal_cooked_salmon"
+  }
+}

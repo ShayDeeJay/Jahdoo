@@ -1,0 +1,14 @@
+{
+  "type": "jahdoo:add_item",
+  "conditions": [
+    {
+      "chance": 0.5,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/village_mason"
+    }
+  ],
+  "item": "jahdoo:unidentified_augment"
+}
