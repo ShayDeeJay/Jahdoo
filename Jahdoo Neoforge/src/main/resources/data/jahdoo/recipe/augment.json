@@ -1,0 +1,33 @@
+{
+  "type": "jahdoo:creator_block",
+  "ingredients": [
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_fragment"
+    },
+    {
+      "item": "jahdoo:augment_core"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "jahdoo:unidentified_augment"
+  }
+}
