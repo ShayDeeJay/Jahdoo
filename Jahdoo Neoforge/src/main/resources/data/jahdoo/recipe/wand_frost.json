@@ -14,8 +14,8 @@
       "item": "jahdoo:augment_core"
     }
   ],
-  "output": {
+  "result": {
     "count": 1,
-    "item": "jahdoo:wand_frost"
+    "id": "jahdoo:wand_frost"
   }
 }

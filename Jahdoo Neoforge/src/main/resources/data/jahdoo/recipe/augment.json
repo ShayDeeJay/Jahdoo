@@ -26,8 +26,8 @@
       "item": "jahdoo:augment_core"
     }
   ],
-  "output": {
+  "result": {
     "count": 1,
-    "item": "jahdoo:unidentified_augment"
+    "id": "jahdoo:unidentified_augment"
   }
 }
