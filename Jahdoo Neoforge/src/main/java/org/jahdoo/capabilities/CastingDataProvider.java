@@ -11,7 +11,7 @@ public class CastingDataProvider implements IAttachmentSerializer<CompoundTag, C
 
     @Override
     public CastingData read(IAttachmentHolder iAttachmentHolder, CompoundTag compoundTag, HolderLookup.Provider provider) {
-        var playerMagicData = iAttachmentHolder instanceof ServerPlayer serverPlayer ? new CastingData(serverPlayer) : new CastingData();
+        var playerMagicData = new CastingData();
         playerMagicData.loadNBTData(compoundTag, provider);
         return playerMagicData;
     }

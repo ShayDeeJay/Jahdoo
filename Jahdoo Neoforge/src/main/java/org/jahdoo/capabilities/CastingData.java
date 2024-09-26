@@ -18,15 +18,6 @@ public class CastingData {
 
     private static final String mana = "jahdoo_magic_data_mana";
     private static final String cooldowns = "jahdoo_magic_data_cooldowns";
-
-    ServerPlayer serverPlayer;
-
-    public CastingData(){}
-
-    public CastingData(ServerPlayer serverPlayer){
-        this.serverPlayer = serverPlayer;
-    }
-
     //Mana system
     private double manaPool;
     private double manaRegenSpeed;
