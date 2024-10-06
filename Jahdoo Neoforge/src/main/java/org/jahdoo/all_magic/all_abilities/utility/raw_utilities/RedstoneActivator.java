@@ -27,8 +27,6 @@ public class RedstoneActivator extends AbstractUtilityProjectile {
         var level = this.genericProjectile.level();
         var blockState = level.getBlockState(blockPos);
 
-        System.out.println(blockState);
-
         if(blockState.hasProperty(POWERED)){
             level.setBlockAndUpdate(blockPos, blockState.cycle(POWERED));
         }

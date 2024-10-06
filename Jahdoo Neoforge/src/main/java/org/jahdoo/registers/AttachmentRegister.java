@@ -1,12 +1,12 @@
 package org.jahdoo.registers;
 
-import net.minecraft.server.level.ServerPlayer;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.attachment.AttachmentType;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.NeoForgeRegistries;
 import org.jahdoo.JahdooMod;
+import org.jahdoo.all_magic.wand_perks.mage_flight.MageFlight;
 import org.jahdoo.capabilities.CastingData;
 import org.jahdoo.capabilities.CastingDataProvider;
 import org.jahdoo.capabilities.player_abilities.*;

@@ -2,10 +2,9 @@ package org.jahdoo.capabilities.player_abilities;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.nbt.CompoundTag;
-import net.minecraft.server.level.ServerPlayer;
 import net.neoforged.neoforge.attachment.IAttachmentHolder;
 import net.neoforged.neoforge.attachment.IAttachmentSerializer;
-import org.jahdoo.capabilities.CastingData;
+import org.jahdoo.all_magic.wand_perks.mage_flight.MageFlight;
 import org.jetbrains.annotations.Nullable;
 
 public class MageFlightProvider implements IAttachmentSerializer<CompoundTag, MageFlight> {
